@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1",
+    "name": "Zöldséges Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "2",
+    "name": "Lencsefőzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "3",
+    "name": "Csirkemell Falatkák Sajtos Panírban",
+    "category": ["húsos"]
+  },
+  {
+    "id": "4",
+    "name": "Vegyes Gyümölcsleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "5",
+    "name": "Sajtos-Fokhagymás-Brokkoli",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "6",
+    "name": "Spenótos-Ricottás tésztakagylók",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "7",
+    "name": "Paradicsomos Csirkemell Sajttal",
+    "category": ["húsos"]
+  },
+  {
+    "id": "8",
+    "name": "Sonkás-Borsós Tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "9",
+    "name": "Tárkonyos Csirkemell Zöldborsóval",
+    "category": ["húsos"]
+  },
+  {
+    "id": "10",
+    "name": "Rakott Brokkoli Csirkemellel",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "11",
+    "name": "Gombás Tejszín",
+    "category": ["főzelék"]
+  },
+  {
+    "id": "12",
+    "name": "Húsmentes Tepsis Bolognai",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "13",
+    "name": "Vajas-Citromos Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "14",
+    "name": "Gombás Cukkinis Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "15",
+    "name": "Petrezselymes Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "16",
+    "name": "Tejfőlös Babfőzelék",
+    "category": ["főzelék"]
+  },
+  {
+    "id": "17",
+    "name": "Rakott Zöldbab Olaszosan",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "18",
+    "name": "Spenótos Sonkás Penne",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "19",
+    "name": "Sajtgolyók",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "20",
+    "name": "Tejfölös Krumplifőzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "21",
+    "name": "Sajtos-Sonkás Tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "22",
+    "name": "Tepsis Csirke Krumplival",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "23",
+    "name": "Juhtúróssztrapacska",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "24",
+    "name": "Paradicsomos húsgombóc",
+    "category": ["húsos", "főzelék"]
+  },
+  {
+    "id": "25",
+    "name": "Mediterrán tepsis csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "26",
+    "name": "Tejfölös sajtos csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "27",
+    "name": "Sárgaborsó főzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "28",
+    "name": "Csőben sült sonkás brokkoli",
+    "category": ["húsos", "tészta"]
+  },
+  {
+    "id": "29",
+    "name": "Cukkinifasírt",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "30",
+    "name": "Zöldségleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "31",
+    "name": "Cukkinis zöldségfasírt",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "32",
+    "name": "Szilvaleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "33",
+    "name": "Mac & Cheese",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "34",
+    "name": "Fokhagymakrémleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "35",
+    "name": "Carbonara Spagetti",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "36",
+    "name": "Tejszínes Csirkés Rakott Tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "37",
+    "name": "Spenóttal, Sajttal Töltött Csirke",
+    "category": ["húsos"]
+  },
+  {
+    "id": "38",
+    "name": "Paradicsomos káposzta",
+    "category": ["húsmentes", "főzelék"]
+  },
+  {
+    "id": "39",
+    "name": "Bableves",
+    "category": ["leves"]
+  },
+  {
+    "id": "40",
+    "name": "Baconbe Tekert Mustáros Csirkemellcsíkok",
+    "category": ["húsos"]
+  },
+  {
+    "id": "41",
+    "name": "Tejszínes Sárgarépa Krémleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "42",
+    "name": "Spenótos Gnocchi",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "43",
+    "name": "Sült Csirkecomb Tepsis Burgonyával",
+    "category": ["húsos"]
+  },
+  {
+    "id": "44",
+    "name": "Csirkés Rizottó",
+    "category": ["húsos"]
+  },
+  {
+    "id": "45",
+    "name": "Tarhonyás Csirkemell",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "46",
+    "name": "Pikáns Fűszeres Gombafasírt",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "47",
+    "name": "Tárkonyos Raguleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "48",
+    "name": "Fokhagymakrémleves Tejszínnel",
+    "category": ["leves"]
+  },
+  {
+    "id": "49",
+    "name": "Rakott Krumpli",
+    "category": ["húsos"]
+  },
+  {
+    "id": "50",
+    "name": "Tejfölös-Kukoricás Csirke",
+    "category": ["húsos"]
+  },
+  {
+    "id": "51",
+    "name": "Rizses Hús Csirkemellből",
+    "category": ["húsos"]
+  },
+  {
+    "id": "52",
+    "name": "Baconös-Sajtos Sült Krumpli",
+    "category": ["húsos"]
+  },
+  {
+    "id": "53",
+    "name": "Bazsalikomos Húsgolyók Gombamártással",
+    "category": ["húsos"]
+  },
+  {
+    "id": "54",
+    "name": "Fűszeres Töltött Csirkecomb Rizibizivel",
+    "category": ["húsos"]
+  },
+  {
+    "id": "55",
+    "name": "Csirkemell Sóskamártásban Steak Burgonyával",
+    "category": ["húsos"]
+  },
+  {
+    "id": "56",
+    "name": "Csirkeragu Zöldbabbal",
+    "category": ["húsos"]
+  },
+  {
+    "id": "57",
+    "name": "Cukkinis Gombás Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "58",
+    "name": "Sárgaborsó Főzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "59",
+    "name": "Gombás-Tejszínes Sertésszelet",
+    "category": ["húsos"]
+  },
+  {
+    "id": "60",
+    "name": "Krumplis Lángos",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "61",
+    "name": "Kukoricafőzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "62",
+    "name": "Finomfőzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "63",
+    "name": "Tejszínes Csirkés Rakott Penne",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "64",
+    "name": "Brokkolis Zöldborsófőzelék Pirított Csirkehússal",
+    "category": ["főzelék", "húsos"]
+  },
+  {
+    "id": "65",
+    "name": "Vajban sült lazac",
+    "category": ["húsos"]
+  },
+  {
+    "id": "66",
+    "name": "Tejszínes-Sajtos Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "67",
+    "name": "Tejszínes baconos gnocchi",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "68",
+    "name": "Csőben Sült Gombás Karfiol",
+    "category": ["húsmentes", "tészta"]
+  },
+  {
+    "id": "69",
+    "name": "Borsos-Mustáros Csirkemell Krémes Sajtmártásban",
+    "category": ["húsos"]
+  },
+  {
+    "id": "70",
+    "name": "Cukkinis-Csirkemelles Ragu",
+    "category": ["húsos"]
+  },
+  {
+    "id": "71",
+    "name": "Gombapörkölt Tejfölösen",
+    "category": ["húsmentes", "főzelék"]
+  },
+  {
+    "id": "72",
+    "name": "Csirkés Márványos Tészta",
+    "category": ["húsos", "tészta"]
+  },
+  {
+    "id": "73",
+    "name": "Sütőben Sült Tejszínes Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "74",
+    "name": "Vega Töltött Káposzta",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "75",
+    "name": "Sonkával Sajttal Töltött Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "76",
+    "name": "Stroganoff Csirke",
+    "category": ["húsos"]
+  },
+  {
+    "id": "77",
+    "name": "Mézes-Mustáros Csirkefalatok",
+    "category": ["húsos"]
+  },
+  {
+    "id": "78",
+    "name": "Milánói Sertésborda",
+    "category": ["húsos", "tészta"]
+  },
+  {
+    "id": "79",
+    "name": "Tepsis Spagetti",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "80",
+    "name": "Sajtos Tészta Baconnel Sütve",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "81",
+    "name": "Paradicsomleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "82",
+    "name": "Tárkonyos raguleves",
+    "category": ["leves", "húsos"]
+  },
+  {
+    "id": "83",
+    "name": "Gyors Fűszeres Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "84",
+    "name": "Sajtos Szalonnás Rakott Krumpli",
+    "category": ["húsos"]
+  },
+  {
+    "id": "85",
+    "name": "Csőben Sült Sajtos Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "86",
+    "name": "Sajtszószos Gomba Baconnel",
+    "category": ["húsos"]
+  },
+  {
+    "id": "87",
+    "name": "Mexikói Csirkés Tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "88",
+    "name": "Lencsés-Cukkinis Rakott Krumpli",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "89",
+    "name": "Sajtos-Sonkás Rakott Csusza",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "90",
+    "name": "Paradicsomos Csirkés Tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "91",
+    "name": "Fokhagymás Tejfölös Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "92",
+    "name": "Brokkoli Fasirt Sütőbe Sütve",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "93",
+    "name": "Tejszínes Sárgarépaleves",
+    "category": ["leves"]
+  },
+  {
+    "id": "94",
+    "name": "Csőben Sült Karfiol Extra Krémesen",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "95",
+    "name": "Zöldbabfőzelék",
+    "category": ["főzelék", "húsmentes"]
+  },
+  {
+    "id": "96",
+    "name": "Gombás Szalonnás Rakott Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "97",
+    "name": "Krémsajtos Rakott Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "98",
+    "name": "Paradicsomos-Tejszínes Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "99",
+    "name": "Tejszínes Gombás Csirke",
+    "category": ["húsos"]
+  },
+  {
+    "id": "100",
+    "name": "Paprikás Krumpli",
+    "category": ["húsos"]
+  },
+  {
+    "id": "101",
+    "name": "Sütötők Fasírt",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "102",
+    "name": "Baconbe Göngyölt Mozzarellás Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "103",
+    "name": "Csőben Sült Karfiol",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "104",
+    "name": "Sajtos Brokkolifasírt",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "105",
+    "name": "Zöldséges Rakott Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "106",
+    "name": "Füstölt Sajtos Rakott Brokkoli Csirkemellel",
+    "category": ["húsos"]
+  },
+  {
+    "id": "107",
+    "name": "Sajttal Töltött Burgonyahajók",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "108",
+    "name": "Mézes Csirkecombok",
+    "category": ["húsos"]
+  },
+  {
+    "id": "109",
+    "name": "Szaftos Fokhagymás Tészta",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "110",
+    "name": "Fóliában Sült Lazac",
+    "category": ["húsos"]
+  },
+  {
+    "id": "111",
+    "name": "Rakott Bolognai Penne",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "112",
+    "name": "Mozzarellás Sült Csirkemell",
+    "category": ["húsos"]
+  },
+  {
+    "id": "113",
+    "name": "Tonhalas-Zöldség Tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "114",
+    "name": "Paradicsomos Gnocchi",
+    "category": ["tészta", "húsmentes"]
+  },
+  {
+    "id": "115",
+    "name": "Rizses Lecsó",
+    "category": ["húsmentes"]
+  },
+  {
+    "id": "116",
+    "name": "Paradicsomos-sonkás tészta",
+    "category": ["tészta", "húsos"]
+  },
+  {
+    "id": "117",
+    "name": "Paradicsomos tészta",
+    "category": ["tészta", "húsmentes"]
+  }
+]
