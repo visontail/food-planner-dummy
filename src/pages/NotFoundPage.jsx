@@ -4,7 +4,7 @@ function NotFoundPage() {
   return (
     <div>
         <h1>404 - Not Found!</h1>
-        <Link to="/">Go Home</Link>
+        <Link to="/food-planner-dummy/">Go Home</Link>
     </div>
   )
 }

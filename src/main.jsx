@@ -12,13 +12,16 @@ import './index.css'
 
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/food-planner-dummy/',
     element: <HomePage />,
-    errorElement: <NotFoundPage />,
   },
   {
-    path: '/recipes',
+    path: '/food-planner-dummy/recipes',
     element: <RecipesPage />,
+  },
+  {
+    path: '/food-planner-dummy/*',
+    element: <NotFoundPage />,
   },
 ])
 

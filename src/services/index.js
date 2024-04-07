@@ -1,4 +1,4 @@
-const JSON_FILE_PATH = '../../data/receptek.json';
+const JSON_FILE_PATH = 'https://raw.githubusercontent.com/visontail/food-planner-dummy/main/data/receptek.json';
 
 /**
  * Fetches data from the local JSON file using the Fetch API.
@@ -17,6 +17,8 @@ const fetchLocalJSONFile = async (filePath) => {
         throw error;
     }
 };
+
+fetchLocalJSONFile(JSON_FILE_PATH).then(data => console.log(data));
 
 /**
  * Fetches all categories from the local JSON file.
